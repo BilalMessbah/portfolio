@@ -1,35 +1,19 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default class Navbar extends Component {
+export default class N extends Component {
 
   render() {
     return (
-      <nav className="navbar navbar-dark bg-dark navbar-expand-lg">
-        <Link to="/" className="navbar-brand">Portfolio</Link>
-        <div className="collpase navbar-collapse">
-        <ul className="navbar-nav mr-auto">
-          <li className="navbar-item">
-          <a href="/#intro" className="nav-link">Home</a>
-          </li>
-          <li className="navbar-item">
-          <a href="/index" className="nav-link">Profession</a>
-          </li>
-          <li className="navbar-item">
-          <a href="/index" className="nav-link">A propos</a>
-          </li>
-          <li className="navbar-item">
-          <a href="/index" className="nav-link">Projets Formation actuelle</a>
-          </li>
-          <li className="navbar-item">
-          <a href="/index" className="nav-link">Hobbies, centre dinterets</a>
-          </li>
-          <li className="navbar-item">
-          <a href="/index" className="nav-link">Contact</a>
-          </li>
-        </ul>
-        </div>
-      </nav>
+      <Navbar sticky="top" bg="primary" variant="dark">
+        <Navbar.Brand href="#home">Portfolio</Navbar.Brand>
+        <Nav className="mr-auto">
+          <Nav.Link href="#home">Accueil</Nav.Link>   
+          <Nav.Link href="#technos">Technos</Nav.Link>
+          <Nav.Link href="#productions">Productions</Nav.Link>
+        </Nav>
+      </Navbar>
     );
   }
 }
