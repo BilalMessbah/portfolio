@@ -32,12 +32,12 @@ export default class SlideTweet extends Component {
                         }
                     }}
                 >
-                    <img src={Img1} alt='login' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/Tweet_academie/Capture1.PNG" />
-                    <img src={Img2} alt='home page' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/Tweet_academie/Capture2.PNG" />
-                    <img src={Img3} alt='dark theme/colors' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/Tweet_academie/Capture3.PNG" />
-                    <img src={Img4} alt='messagerie' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/Tweet_academie/Capture4.PNG" />
-                    <img src={Img5} alt='profil' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/Tweet_academie/Capture5.PNG" />
-                    <img src={Img6} alt='settings' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/Tweet_academie/Capture6.PNG" />
+                    <img src={Img1} alt='login' data-action="http://portfolio/src/components/img/Tweet_academie/Capture1.PNG" />
+                    <img src={Img2} alt='home page' data-action="http://portfolio/src/components/img/Tweet_academie/Capture2.PNG" />
+                    <img src={Img3} alt='dark theme/colors' data-action="http://portfolio/src/components/img/Tweet_academie/Capture3.PNG" />
+                    <img src={Img4} alt='messagerie' data-action="http://portfolio/src/components/img/Tweet_academie/Capture4.PNG" />
+                    <img src={Img5} alt='profil' data-action="http://portfolio/src/components/img/Tweet_academie/Capture5.PNG" />
+                    <img src={Img6} alt='settings' data-action="http://portfolio/src/components/img/Tweet_academie/Capture6.PNG" />
                 </Coverflow>
             </StyleRoot>
           //  document.querySelector('.example')
