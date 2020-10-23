@@ -30,11 +30,11 @@ export default class SlideStudio extends Component {
                         }
                     }}
                 >
-                    <img src={Img5} alt='home' data-action="http://localhost/Premiere_annee/portfolio/portfolio/portfolio-react/src/components/img/e-studio/accueil.PNG" />
-                    <img src={Img1} alt='logo' data-action="http://localhost/Premiere_annee/portfolio/portfolio/portfolio-react/src/components/img/e-studio/logo.png" />
-                    <img src={Img2} alt='login' data-action="http://localhost/Premiere_annee/portfolio/portfolio/portfolio-react/src/components/img/e-studio/login.PNG" />
-                    <img src={Img3} alt='description' data-action="http://localhost/Premiere_annee/portfolio/portfolio/portfolio-react/src/components/img/e-studio/lorem.PNG" />
-                    <img src={Img4} alt='register' data-action="http://localhost/Premiere_annee/portfolio/portfolio/portfolio-react/src/components/img/e-studio/register.PNG" />
+                    <img src={Img5} alt='home' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/e-studio/accueil.PNG" />
+                    <img src={Img1} alt='logo' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/e-studio/logo.png" />
+                    <img src={Img2} alt='login' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/e-studio/login.PNG" />
+                    <img src={Img3} alt='description' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/e-studio/lorem.PNG" />
+                    <img src={Img4} alt='register' data-action="http://localhost/Premiere_annee/portfolio/portfolio/src/components/img/e-studio/register.PNG" />
                 </Coverflow>
             </StyleRoot>
             
