@@ -37,9 +37,9 @@ style={{
     actions={[
       <>
       <strong><a className="desc" href="http://localhost/CV Bilal MESSBAH - EPITECH-min.pdf" target="_blank">Télécharger mon CV</a></strong>
-        <Button className="btn" icon={<TagOutlined />} href="https://www.google.com/search?q=Paris+17">Paris 75017</Button><br></br>
-        <Button className="btn" icon={<GithubOutlined />} href="https://github.com/BilalMessbah">github.com/BilalMessbah</Button><br></br>
-        <Button className="btn" icon={<LinkedinOutlined />} href="https://linkedin.com/in/bilal-messbah">linkedin.com/in/bilal-messbah</Button><br></br>
+        <Button className="btn" icon={<TagOutlined />} href="https://www.google.com/search?q=Paris+17" target="_blank">Paris 75017</Button><br></br>
+        <Button className="btn" icon={<GithubOutlined />} href="https://github.com/BilalMessbah" target="_blank">github.com/BilalMessbah</Button><br></br>
+        <Button className="btn" icon={<LinkedinOutlined />} href="https://linkedin.com/in/bilal-messbah" target="_blank">linkedin.com/in/bilal-messbah</Button><br></br>
         Clickez pour m'envoyer un mail : <Button className="ico" href="mailto:bilal.messbah@epitech.eu" ><ContactsOutlined />bilal.messbah@epitech.eu<br></br></Button>
         <div className="ico"><PhoneOutlined />0695836317<br></br></div>
     </>
