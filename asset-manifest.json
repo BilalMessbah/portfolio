@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b941d44f.chunk.css",
+    "main.js": "/portfolio/static/js/main.77b2db1d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.77b2db1d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/css/2.3fedcc67.chunk.css": "/portfolio/static/css/2.3fedcc67.chunk.css",
+    "static/js/2.14891eca.chunk.js": "/portfolio/static/js/2.14891eca.chunk.js",
+    "static/js/2.14891eca.chunk.js.map": "/portfolio/static/js/2.14891eca.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.b453a1ec1ae358efa5ce8824424f8c14.js": "/portfolio/precache-manifest.b453a1ec1ae358efa5ce8824424f8c14.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.3fedcc67.chunk.css.map": "/portfolio/static/css/2.3fedcc67.chunk.css.map",
+    "static/css/main.b941d44f.chunk.css.map": "/portfolio/static/css/main.b941d44f.chunk.css.map",
+    "static/js/2.14891eca.chunk.js.LICENSE.txt": "/portfolio/static/js/2.14891eca.chunk.js.LICENSE.txt",
+    "static/media/Capture.PNG": "/portfolio/static/media/Capture.b16240de.PNG",
+    "static/media/Capture2.PNG": "/portfolio/static/media/Capture2.2bd70232.PNG",
+    "static/media/Capture3.PNG": "/portfolio/static/media/Capture3.9309f108.PNG",
+    "static/media/Capture4.PNG": "/portfolio/static/media/Capture4.6b7e5aad.PNG",
+    "static/media/Capture5.PNG": "/portfolio/static/media/Capture5.a05077b0.PNG",
+    "static/media/Capture6.PNG": "/portfolio/static/media/Capture6.9eae18c9.PNG",
+    "static/media/E_STUDIO1.png": "/portfolio/static/media/E_STUDIO1.0df0e2d0.png",
+    "static/media/accueil.PNG": "/portfolio/static/media/accueil.bd23d4ee.PNG",
+    "static/media/blanc.png": "/portfolio/static/media/blanc.c8fd98e3.png",
+    "static/media/inspiration.jpg": "/portfolio/static/media/inspiration.f968361e.jpg",
+    "static/media/login.PNG": "/portfolio/static/media/login.dbde6646.PNG",
+    "static/media/logo.png": "/portfolio/static/media/logo.7690d0c5.png",
+    "static/media/lorem.PNG": "/portfolio/static/media/lorem.db77428d.PNG",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.27145eb7.png",
+    "static/media/profil.webp": "/portfolio/static/media/profil.cdb35fa7.webp",
+    "static/media/register.PNG": "/portfolio/static/media/register.cfbf8341.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/css/2.3fedcc67.chunk.css",
+    "static/js/2.14891eca.chunk.js",
+    "static/css/main.b941d44f.chunk.css",
+    "static/js/main.77b2db1d.chunk.js"
+  ]
+}
